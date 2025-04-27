@@ -1,0 +1,43 @@
+{
+    "ok": true,
+    "result": {
+        "message_id": 629,
+        "from": {
+            "id": 5000000,
+            "is_bot": true,
+            "first_name": "lolito",
+            "username": "supepo_bot"
+        },
+        "chat": {
+            "id": 1500000,
+            "first_name": "RodrI",
+            "username": "losarenio",
+            "type": "private"
+        },
+        "date": 1745705550,
+        "photo": [
+            {
+                "file_id": "AgACAgQAAxkDAAICdWgNWk7Ich9YLsodyHfgyAzuVDLdAAIdwz4bOhtkB6pcOCnOTf9tAQADAgADcwADNgQ",
+                "file_unique_id": "AQADHcM-GzobZAd4",
+                "file_size": 1079,
+                "width": 90,
+                "height": 30
+            },
+            {
+                "file_id": "AgACAgQAAxkDAAICdWgNWk7Ich9YLsodyHfgyAzuVDLdAAIdwz4bOhtkB6pcOCnOTf9tAQADAgADbQADNgQ",
+                "file_unique_id": "AQADHcM-GzobZAdy",
+                "file_size": 13091,
+                "width": 320,
+                "height": 106
+            },
+            {
+                "file_id": "AgACAgQAAxkDAAICdWgNWk7Ich9YLsodyHfgyAzuVDLdAAIdwz4bOhtkB6pcOCnOTf9tAQADAgADeAADNgQ",
+                "file_unique_id": "AQADHcM-GzobZAd9",
+                "file_size": 44214,
+                "width": 700,
+                "height": 231
+            }
+        ],
+        "caption": "this is  an example of a photo"
+    }
+}

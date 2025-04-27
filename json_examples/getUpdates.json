@@ -1,0 +1,47 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 6666666,
+            "message": {
+                "message_id": 622,
+                "from": {
+                    "id": 20000000,
+                    "is_bot": false,
+                    "first_name": "RodrI",
+                    "username": "losarenio",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 15000000,
+                    "first_name": "RodrI",
+                    "username": "losarenio",
+                    "type": "private"
+                },
+                "date": 1745702386,
+                "text": "Holi"
+            }
+        },
+        {
+            "update_id": 77777777,
+            "message": {
+                "message_id": 623,
+                "from": {
+                    "id": 20000000,
+                    "is_bot": false,
+                    "first_name": "RodrI",
+                    "username": "losarenio",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 15000000,
+                    "first_name": "RodrI",
+                    "username": "losarenio",
+                    "type": "private"
+                },
+                "date": 1745702392,
+                "text": "Prueb"
+            }
+        }
+    ]
+}
