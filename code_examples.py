@@ -2,11 +2,13 @@ import json
 import requests
 
 # https://telegram-bot-sdk.readme.io/reference/getme
-
+# https://core.telegram.org/bots/api#available-methods
+# https://core.telegram.org/bots/api#reactiontype
 
 SETTINGS = json.loads(open('settings.json', 'r').read())
 
 TOKEN = SETTINGS['vars']['telegram_token']
+# TOKEN = SETTINGS['telegram']['token']
 base_url = f"https://api.telegram.org/bot{TOKEN}"
 
 # getMe
@@ -71,13 +73,14 @@ resp.status_code
 
 
 # setMessageReaction
-#   https://core.telegram.org/bots/api#reactiontype
+#   'https://core.telegram.org/bots/api#reactiontype'
 data = {
     "chat_id": CHAT_ID,
-    "message_id": 635,
+    "message_id": 646,
     "reaction": [{"type": 'emoji', "emoji": "👍"}],
     "is_big": True
 }
 
 resp = requests.post(f"{base_url}/setMessageReaction", json=data)
+resp.status_code
 print(json.dumps(resp.json(), indent=4))

@@ -1,7 +1,7 @@
-# telegram bot
+# Telegram bot implemented with micropython
 
 [Official documentation](https://telegram-bot-sdk.readme.io/reference)
 
-## To be checked:
 
-* [Message reactions](https://core.telegram.org/bots/api#setmessagereaction)
+
+## Dependencies

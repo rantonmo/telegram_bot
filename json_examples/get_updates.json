@@ -1,0 +1,104 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 70177861,
+            "message": {
+                "message_id": 651,
+                "from": {
+                    "id": 15753811,
+                    "is_bot": false,
+                    "first_name": "RodrI",
+                    "username": "losarenio",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": -670513750,
+                    "title": "Homeassistant",
+                    "type": "group",
+                    "all_members_are_administrators": true,
+                    "accepted_gift_types": {
+                        "unlimited_gifts": false,
+                        "limited_gifts": false,
+                        "unique_gifts": false,
+                        "premium_subscription": false
+                    }
+                },
+                "date": 1746816443,
+                "new_chat_participant": {
+                    "id": 6886718137,
+                    "is_bot": false,
+                    "first_name": "Mar\u00eda",
+                    "last_name": "P\u00e9rez Gallardo"
+                },
+                "new_chat_member": {
+                    "id": 6886718137,
+                    "is_bot": false,
+                    "first_name": "Mar\u00eda",
+                    "last_name": "P\u00e9rez Gallardo"
+                },
+                "new_chat_members": [
+                    {
+                        "id": 6886718137,
+                        "is_bot": false,
+                        "first_name": "Mar\u00eda",
+                        "last_name": "P\u00e9rez Gallardo"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 70177862,
+            "message": {
+                "message_id": 652,
+                "from": {
+                    "id": 15753811,
+                    "is_bot": false,
+                    "first_name": "RodrI",
+                    "username": "losarenio",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": -670513750,
+                    "title": "Homeassistant",
+                    "type": "group",
+                    "all_members_are_administrators": true,
+                    "accepted_gift_types": {
+                        "unlimited_gifts": false,
+                        "limited_gifts": false,
+                        "unique_gifts": false,
+                        "premium_subscription": false
+                    }
+                },
+                "date": 1746816452,
+                "text": "Holi"
+            }
+        },
+        {
+            "update_id": 70177863,
+            "message": {
+                "message_id": 653,
+                "from": {
+                    "id": 6886718137,
+                    "is_bot": false,
+                    "first_name": "Mar\u00eda",
+                    "last_name": "P\u00e9rez Gallardo"
+                },
+                "chat": {
+                    "id": -670513750,
+                    "title": "Homeassistant",
+                    "type": "group",
+                    "all_members_are_administrators": true,
+                    "accepted_gift_types": {
+                        "unlimited_gifts": false,
+                        "limited_gifts": false,
+                        "unique_gifts": false,
+                        "premium_subscription": false
+                    }
+                },
+                "date": 1746816481,
+                "text": "Holi"
+            }
+        }
+    ]
+}
